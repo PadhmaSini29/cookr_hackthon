@@ -1,3 +1,5 @@
+                                      Automated Menu Review with Ingredient Identification
+
 **Overview:**
 
 This implements a Convolutional Neural Network (CNN) for classifying cuisine images into seven different categories. It utilizes TensorFlow and OpenCV libraries for image processing and model development. The CNN architecture consists of multiple convolutional layers followed by batch normalization, max-pooling, dropout, and dense layers. The model is trained on a dataset containing images of various cuisines, and its performance is evaluated using classification metrics.
